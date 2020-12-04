@@ -1,6 +1,6 @@
 Package.describe({
     name: "tchiers:sockjs-additional-headers",
-    summary: "Patch sockjs to pass additional headers listed in $SOCKJS_ADDITIONAL_HEADERS environment var to DDP connections",
+    summary: "Patch sockjs to pass additional headers listed in $SOCKJS_ADDITIONAL_HEADERS environment var",
     version: '1.0.0',
     git: 'https://github.com/tchiers/meteor-sockjs-additional-headers.git'
 });
