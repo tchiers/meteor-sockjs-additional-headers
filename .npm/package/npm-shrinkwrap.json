@@ -1,0 +1,30 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@tchiers/sockjs": {
+      "version": "0.3.20",
+      "resolved": "https://registry.npmjs.org/@tchiers/sockjs/-/sockjs-0.3.20.tgz",
+      "integrity": "sha512-8EEznhzXRNxK1Rf5y1JIHr+fKK2JvDIsmqsb/x1Z7k5xUn2Pjr9CzzU0xhfA6rFgjWx56kZj5bXSSe147UpPRg=="
+    },
+    "faye-websocket": {
+      "version": "0.10.0",
+      "resolved": "https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.10.0.tgz",
+      "integrity": "sha1-TkkvjQTftviQA1B/btvy1QHnxvQ="
+    },
+    "uuid": {
+      "version": "3.4.0",
+      "resolved": "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz",
+      "integrity": "sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A=="
+    },
+    "websocket-driver": {
+      "version": "0.6.5",
+      "resolved": "https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.6.5.tgz",
+      "integrity": "sha1-XLJVbOuF9Dc8bYI4qmkchFThOjY="
+    },
+    "websocket-extensions": {
+      "version": "0.1.4",
+      "resolved": "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.4.tgz",
+      "integrity": "sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg=="
+    }
+  }
+}
